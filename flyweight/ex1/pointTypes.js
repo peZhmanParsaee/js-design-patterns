@@ -1,0 +1,6 @@
+module.exports = {
+  CAFE: "CAFE",
+  HOSPITAL: "HOSPITAL",
+  RESTAURANT: "RESTAURANT",
+  GAS_STATION: "GAS_STATION",
+};
