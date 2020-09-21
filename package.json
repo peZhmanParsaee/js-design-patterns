@@ -12,6 +12,7 @@
   "dependencies": {
     "lodash": "^4.17.20",
     "node-fetch": "^2.6.1",
+    "object-sizeof": "^1.6.1",
     "xmlhttprequest": "^1.8.0"
   }
 }
