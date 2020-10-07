@@ -1,0 +1,5 @@
+{
+ "mode": "dev",
+ "baz": 1,
+ "foo": "bar"
+}
